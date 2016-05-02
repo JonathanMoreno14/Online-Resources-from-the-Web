@@ -47,6 +47,10 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 *  [Google's Python Class](https://developers.google.com/edu/python/)
 
+*  [Building a basic GUI application step-by-step in Python with Tkinter and wxPython](http://sebsauvage.net/python/gui/)
+
+   *  [Creating a Web App From Scratch Using Python Flask and MySQL](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972)
+
 
 **Ruby**
 
@@ -130,6 +134,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
  * [Getting Started with Django](http://gettingstartedwithdjango.com/) is another tutorial for learning Django
 
  * [Full Stack Python](http://www.fullstackpython.com/) is a comprehensive list of topics for Python and web Development using Python related frameworks
+ 
+ * [Ultimate Django](https://ultimatedjango.com/) - Learn everything you need to build awesome web apps with Django
     
 *  [Django Rest Framework](http://www.django-rest-framework.org/) a Rest framework built on Django's framework
 
@@ -357,6 +363,8 @@ CSS  SQL](http://devcheats.com/)
 * [Hello Startup](http://www.hello-startup.net/) is a book on creating a start up for technical founders
 
 * [Business Model Canvas Generator](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
+
+* [Crunchbase](https://www.crunchbase.com/#/home/index) - Discover innovative companies and the people behind them
 
 * [Bright Journey](http://www.brightjourney.com/)
 
