@@ -431,6 +431,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Android Developers ](https://developer.android.com/training/index.html) is the Official Site for Android Development
 
+* [Android Studio](http://developer.android.com/sdk/index.html) the official IDE for Android
+
 * [6 Android Tools Every Android Developer Should Know About](https://www.airpair.com/android/android-tools-every-android-developer-should-know-about)
 
 * [Where To Start - Learning Android Development the Right Way
@@ -622,4 +624,6 @@ CSS  SQL](http://devcheats.com/)
 *  [Privacy Badger](https://www.eff.org/privacybadger#faq-What-is-Privacy-Badger?)
 
 *  [Change.org](https://www.change.org/) is the world's platform for change
+
+*  [Fearless Motivation](http://www.fearlessmotivation.com/) 
 
