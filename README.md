@@ -151,6 +151,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2 - Android Hive](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/)
 
+* [Mashape](https://www.mashape.com/) contains Open-Source API tools and products for delivering better APIs and Microservices
+
 
 **SQL**
 
