@@ -447,6 +447,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [CodePath Android Cliffnotes](http://guides.codepath.com/android) are comprehensive source for developing Android Applications
 
+* [CodePath Sample Android Apps](https://github.com/codepath/android_guides/wiki/Sample-Android-Apps)
+
 * [Where To Start - Learning Android Development the Right Way
 ](https://plus.google.com/+KevinDarty/posts/Qex6Ae6zhZW)
 
