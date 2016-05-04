@@ -445,6 +445,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [6 Android Tools Every Android Developer Should Know About](https://www.airpair.com/android/android-tools-every-android-developer-should-know-about)
 
+* [CodePath Android Cliffnotes](http://guides.codepath.com/android) are comprehensive source for developing Android Applications
+
 * [Where To Start - Learning Android Development the Right Way
 ](https://plus.google.com/+KevinDarty/posts/Qex6Ae6zhZW)
 
