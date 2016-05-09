@@ -447,6 +447,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Android Developers ](https://developer.android.com/training/index.html) is the Official Site for Android Development
 
+* [Android Developers Blog](http://android-developers.blogspot.com/) is the Official blog for Android Development
+
 * [Android Studio](http://developer.android.com/sdk/index.html) the official IDE for Android
 
 * [6 Android Tools Every Android Developer Should Know About](https://www.airpair.com/android/android-tools-every-android-developer-should-know-about)
