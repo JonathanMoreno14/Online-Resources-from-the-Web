@@ -174,6 +174,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Simple Git User Guide](http://rogerdudler.github.io/git-guide/) is a guide to using Git using simple control structure for repository
 
+* [Git Tutorial - Atlassian](https://www.atlassian.com/git/tutorials)
+
 * [Git Reference](http://gitref.org/creating/#clone) 
 
 * [Github tricks to Uploading Imgs and Live Demos](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
