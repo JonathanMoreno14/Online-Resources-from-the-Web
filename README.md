@@ -472,6 +472,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Starting Android](http://www.startingandroid.com/)
 
+* [Android Programmer](http://www.androprogrammer.com/)
+
 * [Android - Tutorials Point](http://www.tutorialspoint.com/android/index.htm)
 
 
