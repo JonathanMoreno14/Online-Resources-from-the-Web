@@ -368,9 +368,11 @@ CSS  SQL](http://devcheats.com/)
 
 * [Bright Journey](http://www.brightjourney.com/)
 
-* [Mailchimp](http://mailchimp.com/) 
+* [Mailchimp](http://mailchimp.com/) is a tool for email marketing 
 
 * [Send Grid](https://sendgrid.com/) is for transactional email 
+
+* [Startitup](http://startitup.co/) The Ultimate Startup Guide
 
 * [Dream Funded](https://dreamfunded.com/) invest in upcoming startups
 
