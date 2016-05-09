@@ -400,6 +400,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Launch DFW](http://launchdfw.com/events/)
 
+* [DFW Resources to Business -Mindmeister](https://www.mindmeister.com/178417741/dallas-fort-worth-resources-to-business)
+
 * [Tech Wildcatters](http://techwildcatters.com/)
 
 * [Angel List](https://angel.co/?ref=nav)
@@ -483,6 +485,10 @@ CSS  SQL](http://devcheats.com/)
   * [Heroku](https://www.heroku.com/)
 
   * [Stamplay](https://stamplay.com/)
+  
+  * [Cloudboost.io](https://www.cloudboost.io/)
+  
+  * [Bassbox](http://www.baasbox.com/#home)
 
 ###Building Mobile Cross Platform Application
 
