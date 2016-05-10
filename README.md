@@ -24,6 +24,15 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 
+
+**C++**
+
+* [Learn C++](http://www.learncpp.com/)
+
+* [C ++ Tutorials Point](http://www.tutorialspoint.com/cplusplus/)
+
+* [Beginner C++](http://beginnerscpp.com/)
+
       
 **C Scharp**
         
@@ -91,6 +100,10 @@ These are resources from the vast internet. If you ever wanted to learn to code,
  *Java*
 
  * [Spring](http://spring.io/) is a web framework specifically for Java
+ 
+*C++*
+
+ * [Silicon framework](http://siliconframework.org/) is a C++ Web Framework for Writting Fast and Robust Web APIs with C++
 
 *Ruby on Rails*
 
