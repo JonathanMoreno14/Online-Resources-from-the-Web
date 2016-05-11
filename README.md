@@ -156,6 +156,10 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Sails js](http://sailsjs.org/) a web framework for Node.js
 
+*Crossplatfrom web framework*
+
+* [Electron](http://electron.atom.io/) is used for building cross platfrom desktop apps with JavaScript, HTML, and CSS. It is  compatible with Mac, Windows, and Linux, Electron apps build and run on three platforms
+
 **API Development**
 
 * [Rest API Tutorail](http://www.restapitutorial.com/) a introduction to Rest API
