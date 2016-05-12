@@ -501,6 +501,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Learn IOS - Code School](https://www.codeschool.com/learn/ios) 
 
+* [CodePath iOS Guides](https://guides.codepath.com/ios)
+
 *Backends & Platforms*
 
   * [Backendless](https://backendless.com/)
