@@ -516,6 +516,10 @@ CSS  SQL](http://devcheats.com/)
   * [Cloudboost.io](https://www.cloudboost.io/)
   
   * [Bassbox](http://www.baasbox.com/#home)
+ 
+ *Publishing Applications*
+
+ *  [App Screenshot Generator](http://www.appscreenshot.me/) is used to Create your iOS & Android application screenshots
 
 ###Building Mobile Cross Platform Application
 
@@ -619,6 +623,8 @@ CSS  SQL](http://devcheats.com/)
 ###MISC Websites
 
 *  [Stack Share](http://stackshare.io/stacks) is a site where companies and developers alike share the stacks they use for their projects and or company
+
+*  [Libraries.io](https://libraries.io/) monitors  open source libraries across different package managers. You can discover new libraries to use in your software projects as well as be notified of new releases to keep your applications secure and up to date
 
 *  [Alternativeto](http://alternativeto.net/) is a site to find an alternative to a specific project/site
 
