@@ -595,6 +595,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Learn HTML5, CSS3, Javascript and more...](http://thecodeplayer.com/)
 
+* [FormSpree.io](https://formspree.io/) -Functional HTML forms
+
 * [Pixa Bay](https://pixabay.com/) has over 630000 high quality photos, illustrations, and vector graphics. Free for commercial use. No attribution required -Pixa Bay
 
 * [Lunapic](http://www191.lunapic.com/editor/) is a free online photo editor
