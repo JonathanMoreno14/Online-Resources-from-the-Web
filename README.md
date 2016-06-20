@@ -185,6 +185,12 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [SQL Zoo](http://sqlzoo.net/wiki/SQL_Tutorial) is a SQL tutorial series for learning SQL
 
+*  [SQL Tool Pro](https://www.sqltoolpro.com/)
+
+* [SQL Sandbox -Turbo.net](https://turbo.net/sql) - Run SQL Server, SQL Management Studio (SSMS), and other databases in containers. -Turbo.net
+
+* [Tech on the Next](http://www.techonthenet.com/index.php) - Database tutorials which provide a step-by-step walkthrough of the basic and advanced topics surrounding relational database
+
 **Version Control**
 
 * [Git](https://git-scm.com/book/en/v2) is the official site for Git version control
