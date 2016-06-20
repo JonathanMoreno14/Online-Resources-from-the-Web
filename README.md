@@ -93,7 +93,10 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Learn Mean](http://learnmean.com/#!/)
 
-* [Mean.io](http://mean.io/#!/)
+* [MEAN js](http://meanjs.org/) - Open-Source Full-Stack Solution For MEAN Applications
+
+* [MEAN.io](http://mean.io/#!/) - MEAN fullstack javascript framework - 
+which simplifies and accelerates web application development. -MEAN.io
 
 **Web Frameworks**
        
