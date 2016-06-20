@@ -246,6 +246,12 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Linux Academy](https://linuxacademy.com/join/pricing)
 
+**Apache**
+
+[XAMPP](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
+
+[WAMPSERVER](http://www.wampserver.com/en/) - WampServer is a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database. Alongside, PhpMyAdmin allows you to manage easily your databases.
+
 
 **Websites for learning to Code (MOOCS)**
      
