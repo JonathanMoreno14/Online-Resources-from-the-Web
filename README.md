@@ -428,6 +428,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Bootstrapping](https://gist.github.com/dideler/1718200#logins) is a comprehensive list of resources for bootrapping and starting projects
 
+* [Sticker Mule](https://www.stickermule.com/) - is the fastest and easiest way to buy custom stickers. We offer free online proofs, 5 day turnaround and free UPS Ground shipping. - Sticker Mule
+
 * [Zopim](https://www.zopim.com/?lang=en-us) is a platform for online customer service for your website
 
 * [Founde2Be](https://www.founder2be.com/)
@@ -510,11 +512,14 @@ CSS  SQL](http://devcheats.com/)
 
 * [Android Tutorial - Java Techig](http://javatechig.com/android-tutorials)
 
+* [Android - Tutorials Point](http://www.tutorialspoint.com/android/index.htm)
+
 * [Starting Android](http://www.startingandroid.com/)
 
 * [Android Programmer](http://www.androprogrammer.com/)
 
-* [Android - Tutorials Point](http://www.tutorialspoint.com/android/index.htm)
+* [Simplified Coding](https://www.simplifiedcoding.net/) - Blog for learning Android programming
+
 
 
 
