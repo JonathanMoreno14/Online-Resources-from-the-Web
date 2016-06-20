@@ -520,6 +520,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Simplified Coding](https://www.simplifiedcoding.net/) - Blog for learning Android programming
 
+* [Android Warriors](http://www.androidwarriors.com/)
+
 
 
 
