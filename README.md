@@ -91,6 +91,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Mean Stack Tutorial by Brandon](http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/)
 
+* [Introduction to MongoDB using the MEAN Stack - edX](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) -Learn everything you need to know to develop a retail application using MongoDB, Node.js and the MEAN Stack. -edX
+
 * [Learn Mean](http://learnmean.com/#!/)
 
 * [MEAN js](http://meanjs.org/) - Open-Source Full-Stack Solution For MEAN Applications
