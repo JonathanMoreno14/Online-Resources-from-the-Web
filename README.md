@@ -205,6 +205,8 @@ which simplifies and accelerates web application development. -MEAN.io
 
 * [Tech on the Next](http://www.techonthenet.com/index.php) - Database tutorials which provide a step-by-step walkthrough of the basic and advanced topics surrounding relational database
 
+* [Connection Strings](https://www.connectionstrings.com/) - helps developers connect software to data. It's a straight to the point reference about connection strings, a knowledge base of articles and database connectivity content and a host of Q & A forums where developers help each other in finding solutions.  - Connection Strings
+
 **Version Control**
 
 * [Git](https://git-scm.com/book/en/v2) is the official site for Git version control
