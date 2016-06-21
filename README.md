@@ -400,6 +400,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Start Up Stash](http://startupstash.com/) is a collection of resources for building startups
 
+* [Growth Supply](http://growth.supply/free/) +400 Awesome Free Tools To Build Your Business
+
 * [Hello Startup](http://www.hello-startup.net/) is a book on creating a start up for technical founders
 
 * [Business Model Canvas Generator](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
@@ -417,6 +419,10 @@ CSS  SQL](http://devcheats.com/)
 * [Dream Funded](https://dreamfunded.com/) invest in upcoming startups
 
 * [23 Ways to generate startup ideas](http://www.startuprob.com/23-ways-to-generate-startup-ideas/)
+
+* [Foundr](https://foundrmag.com/) - The resource entrepreneurs choose to learn how to build and grow a successful business.
+
+* [Disqus](https://disqus.com/) - offers the best add-on tools for site owners to power discussions, increase engagement, and earn revenue.
 
 * [Smartup io](http://smartup.io/)
 
