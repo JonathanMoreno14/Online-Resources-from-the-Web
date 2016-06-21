@@ -87,6 +87,13 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Threejs](http://threejs.org/)
 
+*  [Meteor](https://www.meteor.com/) - is an open source platform for web, 
+mobile, and desktop.
+
+*  [Discover Meteor](https://www.discovermeteor.com/) - Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch.
+
+* [Angular Meteor](http://www.angular-meteor.com/) - Build Realtime Web and Mobile Apps With Angular and Meteor
+
 *Mean Stack*
 
 * [Mean Stack Tutorial by Brandon](http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/)
@@ -180,6 +187,8 @@ which simplifies and accelerates web application development. -MEAN.io
 * [How to create REST API for Android app using PHP, Slim and MySQL – Day 1/2 - Android Hive](http://www.androidhive.info/2014/01/how-to-create-rest-api-for-android-app-using-php-slim-and-mysql-day-12-2/)
 
 * [Mashape](https://www.mashape.com/) contains Open-Source API tools and products for delivering better APIs and Microservices
+
+* [Programmable Web](http://www.programmableweb.com/) - As the world's leading source of news and information about Internet-based application programming interfaces (APIs), also known as the Web's defacto journal of the API economy.
 
 
 **SQL**
@@ -632,6 +641,10 @@ CSS  SQL](http://devcheats.com/)
 * [FormSpree.io](https://formspree.io/) -Functional HTML forms
 
 * [Pixa Bay](https://pixabay.com/) has over 630000 high quality photos, illustrations, and vector graphics. Free for commercial use. No attribution required -Pixa Bay
+
+* [Bear CSS](http://bearcss.com/) - is a handy little tool for web designers. It generates a CSS template containing all the HTML elements, classes & IDs defined in your markup.
+
+* [Online Converter](http://image.online-convert.com/convert-to-gif) - Convert media free, fast and online.
 
 * [Lunapic](http://www191.lunapic.com/editor/) is a free online photo editor
 
