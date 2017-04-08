@@ -71,6 +71,12 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Golang bootcamp](http://www.golangbootcamp.com/book)
 
+**Swift**
+
+* [Swift](https://swift.org/)
+
+* [10 Basic Swift Interview Questions to Practice with](https://www.codementor.io/hajderrabiee/basic-swift-interview-questions-job-junior-developer-omuqax3ab)
+
 **Javascipt**
 
 * [Javascript](https://www.javascript.com/)
