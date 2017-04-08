@@ -4,7 +4,7 @@
 
 These are resources from the vast internet. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
 
-###Learning to Code
+### Learning to Code
 
 **Programming Languages**
        
@@ -389,7 +389,7 @@ CSS  SQL](http://devcheats.com/)
    * [How to turn your Raspberry Pi int a retro game console - Lifehacker](http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow)
 
 
-###Investing 
+### Investing 
 
 * [Wall Street Survivor](http://www.wallstreetsurvivor.com/) an online interactive course on investing 
 
@@ -401,7 +401,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Digit](https://digit.co/) is automatic savings done right
 
-###Start-Ups/Entrepreneurship
+### Start-Ups/Entrepreneurship
 
 * [Start Up Playbook - YC](http://playbook.samaltman.com/) is an interactive site illustrating how to build a startup
 
@@ -478,7 +478,7 @@ CSS  SQL](http://devcheats.com/)
 * [500](http://500.co/accelerator/)
 
 
-###Creating Your own Portfolio Site
+### Creating Your own Portfolio Site
 
 * [RE.VU](http://re.vu/)
 
@@ -486,7 +486,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Branded Me](https://branded.me/#)
 
-###Game Development
+### Game Development
 
 * [Games from Scratch](http://www.gamefromscratch.com/) is a website for people interested in learning to build games
 
@@ -500,7 +500,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Kilo Bolt](http://www.kilobolt.com/) a website dedicated to Android game development
 
-###Android Development
+### Android Development
 
 * [Android Developers ](https://developer.android.com/training/index.html) is the Official Site for Android Development
 
@@ -542,7 +542,7 @@ CSS  SQL](http://devcheats.com/)
 
 
 
-###IOS
+### IOS
 
 * [Learn IOS - Code School](https://www.codeschool.com/learn/ios) 
 
@@ -566,7 +566,7 @@ CSS  SQL](http://devcheats.com/)
 
  *  [App Screenshot Generator](http://www.appscreenshot.me/) is used to Create your iOS & Android application screenshots
 
-###Building Mobile Cross Platform Application
+### Building Mobile Cross Platform Application
 
 * [Code Name One](https://www.codenameone.com/index.html) - Build mobile cross Platform Applications using Java
 
@@ -584,7 +584,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Ruboto](http://ruboto.org/) - Build Android Applications using Ruby
 
-###Web Design
+### Web Design
 
 * [40 Must Have Cheat Sheets For Graphic Designers And Developers](http://www.smashingapps.com/2013/02/28/40-must-have-cheat-sheets-for-graphic-designers-and-developers.html)
 
@@ -655,7 +655,7 @@ CSS  SQL](http://devcheats.com/)
 
 
 
-###Mathematics
+### Mathematics
 
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 
@@ -671,7 +671,7 @@ CSS  SQL](http://devcheats.com/)
    
    * [This Professor Can Teach Anyone Calculus Using These Simple, Beautiful Animations - Gizmodo](http://gizmodo.com/this-professor-can-teach-anyone-calculus-using-these-si-1726762097?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
   
-###MISC Websites
+### MISC Websites
 
 *  [Stack Share](http://stackshare.io/stacks) is a site where companies and developers alike share the stacks they use for their projects and or company
 
