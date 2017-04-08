@@ -733,3 +733,5 @@ CSS  SQL](http://devcheats.com/)
 
 *  [Fearless Motivation](http://www.fearlessmotivation.com/) 
 
+* [IFTT](https://ifttt.com/) IFTTT empowers you to do more with the services you love. Learn how Applets make it possible
+
