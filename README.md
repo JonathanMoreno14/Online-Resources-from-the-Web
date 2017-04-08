@@ -1,6 +1,6 @@
 # Online Resources from the Web
 
-##Resources (From the Web!!!)
+## Resources (From the Web!!!)
 
 These are resources from the vast internet. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
 
@@ -163,6 +163,10 @@ which simplifies and accelerates web application development. -MEAN.io
 *Golang*
 
 * [Revel web framework for Golang](https://revel.github.io/index.html)
+
+*Swift*
+
+* [Vapor web Framework](https://vapor.codes/)
 
 
 *Python with Django*
@@ -564,6 +568,8 @@ CSS  SQL](http://devcheats.com/)
 * [Learn IOS - Code School](https://www.codeschool.com/learn/ios) 
 
 * [CodePath iOS Guides](https://guides.codepath.com/ios)
+
+* [Appcoda](http://www.appcoda.com/) is one of the leading tutorial sites for app developers and anyone who want to learn iOS programming.
 
 *Backends & Platforms*
 
