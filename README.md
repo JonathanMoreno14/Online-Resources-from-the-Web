@@ -308,6 +308,8 @@ which simplifies and accelerates web application development. -MEAN.io
 
 *   [So you want to be a programmer, huh? Here are 27 ways to learn to program online](http://thenextweb.com/dd/2012/10/21/so-you-want-to-be-a-programmer-huh-heres-25-ways-to-learn-online/)
 
+*  [Solo Learn](https://www.sololearn.com/) , learn to code on the go
+
 **Additional websites**
       
 * [Stack Overflow](http://stackoverflow.com/)
