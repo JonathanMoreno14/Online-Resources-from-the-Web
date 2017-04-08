@@ -67,6 +67,10 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 
+**Golang**
+
+* [Golang bootcamp](http://www.golangbootcamp.com/book)
+
 **Javascipt**
 
 * [Javascript](https://www.javascript.com/)
@@ -148,6 +152,11 @@ which simplifies and accelerates web application development. -MEAN.io
     * [Build a Dropbox like file sharing site with Ruby on Rails](http://code.tutsplus.com/tutorials/build-a-dropbox-like-file-sharing-site-with-ruby-on-rails--net-17940)
 
     * [Gmail like chat application in Ruby on Rails](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
+
+
+*Golang*
+
+* [Revel web framework for Golang](https://revel.github.io/index.html)
 
 
 *Python with Django*
@@ -733,5 +742,5 @@ CSS  SQL](http://devcheats.com/)
 
 *  [Fearless Motivation](http://www.fearlessmotivation.com/) 
 
-* [IFTT](https://ifttt.com/) IFTTT empowers you to do more with the services you love. Learn how Applets make it possible
+* [IFTT](https://ifttt.com/) empowers you to do more with the services you love. Learn how Applets make it possible
 
