@@ -648,6 +648,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Silex](http://www.silex.me/) is a drag in drop web editor for Bootstrap
 
+* [Mobirise](https://mobirise.com/) - free website builder for Mac and Windows
+
 * [Colors Paletter Generator](http://www.cssdrive.com/imagepalette/index.php) is a color palette generator for imgs
 
 * [10 Best Bootstrap alternatives for web developers](http://www.dzinerslane.com/10-best-bootstrap-alternatives-for-web-developers/)
@@ -693,6 +695,12 @@ CSS  SQL](http://devcheats.com/)
 * [Lunapic](http://www191.lunapic.com/editor/) is a free online photo editor
 
 * [Pixlr](https://pixlr.com/) is another free online photo editor similar to Photoshop
+
+* [Gravit Designer](https://designer.io/) - A cross-platform design tool for the 21st century. Gravit Designer is a full featured free vector design app right at your fingertip.
+
+* [Crello](https://crello.com/home/) - The simplest online image editor. Create your own designs — posts, covers, graphics, and posters using the best software on the web.
+
+* [Canva](https://www.canva.com/) - makes design simple for everyone. Create designs for Web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations and so ...
 
 
 
