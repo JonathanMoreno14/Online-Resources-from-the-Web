@@ -368,6 +368,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Code Quizzes](http://www.codequizzes.com/)
 
+* [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
+
 * [32 web frameworks to choose from for your next project](http://memeburn.com/2011/06/32-web-frameworks-to-choose-from-for-your-next-project/)
 
 
@@ -702,7 +704,9 @@ CSS  SQL](http://devcheats.com/)
 
 * [Canva](https://www.canva.com/) - makes design simple for everyone. Create designs for Web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations and so ...
 
+* [Zeplin](https://zeplin.io/) - Design hand-off has never been easier. Generate styleguides and resources, automatically.
 
+* [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
 
 
 ### Mathematics
@@ -724,6 +728,8 @@ CSS  SQL](http://devcheats.com/)
 ### MISC Websites
 
 *  [Stack Share](http://stackshare.io/stacks) is a site where companies and developers alike share the stacks they use for their projects and or company
+
+*  [appsight](https://www.appsight.io/) - Find SDKs & services used by mobile apps
 
 *  [Libraries.io](https://libraries.io/) monitors  open source libraries across different package managers. You can discover new libraries to use in your software projects as well as be notified of new releases to keep your applications secure and up to date
 
