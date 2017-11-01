@@ -313,6 +313,8 @@ which simplifies and accelerates web application development. -MEAN.io
 
 *   [Udacity](https://www.udacity.com/)
 
+*   [Devslopes](https://devslopes.com/) - Learn to code & build apps & games with Devslopes. The world's most affordable and effective platform to learn how to code.
+
 *   [Code School](https://www.codeschool.com/)
 
 *   [Codecademy](https://www.codecademy.com/)
@@ -477,6 +479,8 @@ CSS  SQL](http://devcheats.com/)
 
 * [Free SEO tools - Buffer](https://blog.bufferapp.com/free-seo-tools?utm_content=bufferd21b8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
+* [50 Marketing Tools to Help Your Business Crush the Competition](https://www.entrepreneur.com/article/286530)
+
 * [Bootstrapping](https://gist.github.com/dideler/1718200#logins) is a comprehensive list of resources for bootrapping and starting projects
 
 * [Sticker Mule](https://www.stickermule.com/) - is the fastest and easiest way to buy custom stickers. We offer free online proofs, 5 day turnaround and free UPS Ground shipping. - Sticker Mule
@@ -621,6 +625,8 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
     * [Decoide](https://www.decoide.org/) - The best IDE for building React Native apps is now free and open source.
 
   * [Hackernoon](https://hackernoon.com/learning-react-native-where-to-start-49df64cf14a2) - Learning React Native
+  
+  * [10 Resources to Learn React and Redux](https://medium.com/@lockpaddy/10-resources-to-learn-react-and-redux-25d3c35cb2bd)
 
 
 * [Code Name One](https://www.codenameone.com/index.html) - Build mobile cross Platform Applications using Java
@@ -802,3 +808,6 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [IFTT](https://ifttt.com/) empowers you to do more with the services you love. Learn how Applets make it possible
 
+### Movies & TV
+
+* [Saiyan Watch](http://saiyanwatch.com/) - Watch Dragon Ball Super English Subbed And Dubbed Episodes Free Online Also Download Dragon Ball Super, Dragon Ball Z, GT, DBZ Kai, Movies,Specials ...
