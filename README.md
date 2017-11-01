@@ -285,6 +285,14 @@ which simplifies and accelerates web application development. -MEAN.io
 
 * [Linux Academy](https://linuxacademy.com/join/pricing)
 
+   *Bash Shell Scripting*
+       
+     * [Jonn's blog](http://johnstowers.co.nz/pages/bash-cheat-sheet.html) - Bash Shell Cheat sheet
+
+     * [Bash Shell Cheat Sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+
+     * [devhints](https://devhints.io/bash) - Bash Shell Scripting
+
 **Apache**
 
 [XAMPP](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
