@@ -52,6 +52,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 *  [Python Software Foundation](https://www.python.org/)
 
+*  [Python 3 – Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) - Python 3 cheat sheet
 *  [Learn Python](http://www.learnpython.org/)
 
 *  [Google's Python Class](https://developers.google.com/edu/python/)
