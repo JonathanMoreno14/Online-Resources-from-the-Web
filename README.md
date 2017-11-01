@@ -274,6 +274,8 @@ which simplifies and accelerates web application development. -MEAN.io
    * [(GitHub-Flavored) Markdown Editor](https://jbt.github.io/markdown-editor/#bVNBbtswELzzFVs4gO3GltpremqTpgkQA0WTnoICoUVSpC1yBXJlJyn69y4pw84hgAnJ5HBmd2Y1gdkPRzfDenndyR1GreawknGrcB/gu3KEUYhvMrkGhqTN0IHRkoaooXOJLoSAj3BJsTu/hxouveInISS500BWg3GdPkGsM3QCHv4xvLGISR8vynQqASPcPKzuMsdVlC3IoEBF7EEWbnCBb1kdy+0OpQJHGXydDxsMpAMlkHyeqfk0lLp+/7qDhPCCAzQyQLIZkQmTEOJ26iEgtIgKJME+OnKhZQLfM2mdcZ2OQPqZFpmlxYJhCfSabMYycUy6M5UQd4jbBZeb/fpQ/DKI+bGWcXy8CvGV28pdTFMh4cqV/gAX55/Z4aenp43cydRE15M4m5khNOQwzOZ/BcDZbKrcbjqvLPluNr0F6VmMt6rp/Iv4x4vvC/FgXQL+PWKAMfA/M0vUp4u6bh3ZYV016OvNmmp/8H6pS/zz3GKnCbisbcA9OAO3U45p/Slus6NUSt7n8rld8ZPTSTmNVazgCnFdMsvyj7krGFlHdRb3UTGmiPcRN7qhVGfcQb2eL8BE9LC3rrEiZ+dC6l2U2YIsw4anRdEozll+ewGXo/Kc/QjjTIhBjfS5xMlkAvc0GJNHWmUOL7e6EI0D/Xi0wNG7Nr05f/s+52jjaXZ7GRMPQ2G85JZWLsY3necufdmqgqZ6vJwblHtdWkkvXP/z0rrWdryIax1NKYzH7WqTjpwJDe15lr0MTjapwtiWvfqIrnU4SI30cDzJc8ufBw7UD1QmENYdNttU5DZpqbTpJOl3HVEybLGVrj7hRpX21fV9pkYDSpI82s1zY3ixIn+MSfwH)
 
    * [Markdown live Preview](http://markdownlivepreview.com/) is a free markdown live preview editor for editing your markdown files
+   
+   * [jsonformatter](https://jsonformatter.curiousconcept.com/) - This little tool hoped to solve the problem by formatting the JSON data so that it is easy to read and debug by human beings.
 
 
 **Linux** 
@@ -495,11 +497,18 @@ CSS  SQL](http://devcheats.com/)
 
 * [DFW Resources to Business -Mindmeister](https://www.mindmeister.com/178417741/dallas-fort-worth-resources-to-business)
 
-* [Tech Wildcatters](http://techwildcatters.com/)
-
 * [Angel List](https://angel.co/?ref=nav)
 
 * [Shapr.Net](http://shapr.net/) is a mobile app for connecting with other like minded individuals
+
+*Pitchdeck*
+
+* [Peetch](http://peetch.slidor.fr/#Download) - A free PowerPoint Pitchdeck template
+
+* [Slidebean](https://slidebean.com/)- Pitch deck templates for startups
+
+* [Pitchdeck.improvepresentation](https://pitchdeck.improvepresentation.com/)- A Pitch Deck Template Made by Professionals 
+Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with their presentation design. Now it's your turn. Start with this easy to edit presentation template for PowerPoint and Keynote.
 
 *Accelerators/Incubators*
 
@@ -508,6 +517,8 @@ CSS  SQL](http://devcheats.com/)
 * [Techstars](http://www.techstars.com/)
 
 * [500](http://500.co/accelerator/)
+
+* [Tech Wildcatters](http://techwildcatters.com/)
 
 
 ### Creating Your own Portfolio Site
