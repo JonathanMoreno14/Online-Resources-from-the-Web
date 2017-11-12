@@ -334,6 +334,11 @@ which simplifies and accelerates web application development. -MEAN.io
 *  [Solo Learn](https://www.sololearn.com/) , learn to code on the go
 
 **Additional websites**
+
+* [GeekforGeeks](http://www.geeksforgeeks.org/) - Welcome to the world of Geeks!!
+  How many times were you frustrated while looking out for a good collection of programming/algorithm/interview questions? What did you expect and what did you get? This portal has been created to provide well written, well thought and well explained solutions for selected questions.
+  
+* [Study Tonight](http://www.studytonight.com/) - is a vision to provide free and easy education to everyone on the Internet. We are working towards bringing the entire study routine of students on the Internet.
       
 * [Stack Overflow](http://stackoverflow.com/)
 
@@ -725,6 +730,8 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Sketch](https://www.sketchapp.com/) - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
 
+* [Just In Mind](https://www.justinmind.com/) - All-in-one Prototyping Tool for web and mobile apps
+Define awesome experiences through wireframes & prototypes
 
 ### Mathematics
 
