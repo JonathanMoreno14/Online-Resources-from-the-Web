@@ -818,3 +818,7 @@ Define awesome experiences through wireframes & prototypes
 ### Movies & TV
 
 * [Saiyan Watch](http://saiyanwatch.com/) - Watch Dragon Ball Super English Subbed And Dubbed Episodes Free Online Also Download Dragon Ball Super, Dragon Ball Z, GT, DBZ Kai, Movies,Specials ...
+
+### Music
+
+* [Sound Trap](https://www.soundtrap.com/) - We are an eclectic team of engineers, designers and music producers passionate about music & technology. United by the belief that there’s a better way to create music together, we’re building Soundtrap — the best collaboration platform for making music online.
