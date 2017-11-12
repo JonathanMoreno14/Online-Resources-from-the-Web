@@ -6,6 +6,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 ### Learning to Code
 
+[How to choose the right laptop for programming](https://medium.freecodecamp.org/how-to-choose-a-laptop-for-programming-a9e36f8b4cfe)
+
 **Programming Languages**
        
 **Java**
