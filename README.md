@@ -33,7 +33,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Android Development](#android-development)
 * [IOS](#ios)
 * [Building Mobile Cross Platform Application](#building-mobile-cross-platform-application)
-* [Content Management Systems (CMS)](#content-management-systems-(CMS)
+* [WordPress](#wordpress)
 * [Web Design](web-design)
 * [Mathematics](#mathematics)
 * [MISC Websites](#misc-websites)
@@ -687,9 +687,7 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Ruboto](http://ruboto.org/) - Build Android Applications using Ruby
 
-## Content Management Systems (CMS)
-
-*WordPress*
+## WordPress
 
 * [WordPress](https://wordpress.org/) - is open source software you can use to create a beautiful website, blog, or app.
 
