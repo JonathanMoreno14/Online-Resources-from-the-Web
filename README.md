@@ -73,7 +73,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Beginner C++](http://beginnerscpp.com/)
 
 
-## CScharp
+## CSharp
 
 * [C Sharp - Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)
 
