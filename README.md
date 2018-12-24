@@ -27,7 +27,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Learning to Code](#learning-to-Code)
 * [Internet of Things](#internet-of-things)
 * [Investing](#investing)
-* [Start-Ups/Entrepreneurship](#start-Ups/entrepreneurship)
+* [Startups](#startups)
 * [Creating Your own Portfolio Site](#creating-your-own-portfolio-site)
 * [Game Development](#game-development)
 * [Android Development](#android-development)
@@ -479,7 +479,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Digit](https://digit.co/) is automatic savings done right
 
-## Start-Ups/Entrepreneurship
+## Startups
 
 * [Start Up Playbook - YC](http://playbook.samaltman.com/) is an interactive site illustrating how to build a startup
 
