@@ -2,6 +2,10 @@
 
 A collective list of online resources. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
 
+![undraw_collecting_fjjl](https://user-images.githubusercontent.com/11635523/50391727-b9854900-070d-11e9-866e-85be05be8754.png)
+
+
+
 
 ## Table of Contents
 
@@ -863,3 +867,7 @@ Define awesome experiences through wireframes & prototypes
 ## Music
 
 * [Sound Trap](https://www.soundtrap.com/) - We are an eclectic team of engineers, designers and music producers passionate about music & technology. United by the belief that there’s a better way to create music together, we’re building Soundtrap — the best collaboration platform for making music online.
+
+
+
+[1] IMG by [unDraw](https://undraw.co/)
