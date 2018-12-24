@@ -83,7 +83,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 *  [Complete C Sharp Tutorial](http://www.completecsharptutorial.com/)
 
-## <a name="clang"></a>C
+## C
 
 * [Learn C Online](http://www.learnconline.com/2010/04/data-types-in-c-programming-language.html)
 
@@ -117,7 +117,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [10 Basic Swift Interview Questions to Practice with](https://www.codementor.io/hajderrabiee/basic-swift-interview-questions-job-junior-developer-omuqax3ab)
 
-## Javascipt
+## Javascript
 
 * [Javascript](https://www.javascript.com/)
 
