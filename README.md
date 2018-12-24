@@ -34,7 +34,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [IOS](#ios)
 * [Building Mobile Cross Platform Application](#building-mobile-cross-platform-application)
 * [WordPress](#wordpress)
-* [Web Design](web-design)
+* [Web Design](#web-design)
 * [Mathematics](#mathematics)
 * [MISC Websites](#misc-websites)
 * [Movies & TV](#movies-&-tv)
