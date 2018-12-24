@@ -1,17 +1,53 @@
 # Online Resources from the Web
 
-## Resources (From the Web!!!)
+## Resources
 
 These are resources from the vast internet. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
+
+
+## Table of Contents
+
+* [Java]()
+* [C ++]()
+* [C Sharp]()
+* [C](#c)
+* [Python]()
+* [Ruby]()
+* [Golang]()
+* [Swift]()
+* [Javascript]()
+* [Web Frameworks]()
+* [API Development]()
+* [SQL]()
+* [Version Control]()
+* [Developer Tools]()
+* [Linux]()
+* [Apache]()
+* [Websites for learning to Code]()
+* [Internet of Things]()
+* [Investing]()
+* [Start-Ups/Entrepreneurship]()
+* [Creating Your own Portfolio Site]()
+* [Game Development]()
+* [Android Development]()
+* [IOS]()
+* [Building Mobile Cross Platform Application]()
+* [Content Management Systems (CMS)]()
+* [Web Design]()
+* [Mathematics]()
+* [MISC Websites]()
+* [Movies & TV]()
+* [Music]()
 
 ### Learning to Code
 
 [How to choose the right laptop for programming](https://medium.freecodecamp.org/how-to-choose-a-laptop-for-programming-a9e36f8b4cfe)
 
-**Programming Languages**
-       
-**Java**
-        
+
+## Programming Languages
+
+## Java
+
 * [Java2s](http://www.java2s.com/Tutorial/Java/CatalogJava.htm)
 
 * [Home and Learn](http://www.homeandlearn.co.uk/java/java.html)
@@ -27,7 +63,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 
 
-**C++**
+## C++
 
 * [Learn C++](http://www.learncpp.com/)
 
@@ -35,9 +71,9 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Beginner C++](http://beginnerscpp.com/)
 
-      
-**C Scharp**
-        
+
+## C Scharp
+
 * [C Sharp - Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)
 
 * [C Sharp - Home nad Learn](http://www.homeandlearn.co.uk/csharp/csharp.html)
@@ -46,11 +82,11 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 *  [Complete C Sharp Tutorial](http://www.completecsharptutorial.com/)
 
-**C**
+## <a name="clang"></a>C
 
 * [Learn C Online](http://www.learnconline.com/2010/04/data-types-in-c-programming-language.html)
 
-**Python**
+## Python
 
 *  [Python Software Foundation](https://www.python.org/)
 
@@ -64,23 +100,23 @@ These are resources from the vast internet. If you ever wanted to learn to code,
    *  [Creating a Web App From Scratch Using Python Flask and MySQL](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972)
 
 
-**Ruby**
+## Ruby
 
 * [Ruby Monk](https://rubymonk.com/)
 
 * [Try Ruby](http://tryruby.org/levels/1/challenges/0)
 
-**Golang**
+## Golang
 
 * [Golang bootcamp](http://www.golangbootcamp.com/book)
 
-**Swift**
+## Swift
 
 * [Swift](https://swift.org/)
 
 * [10 Basic Swift Interview Questions to Practice with](https://www.codementor.io/hajderrabiee/basic-swift-interview-questions-job-junior-developer-omuqax3ab)
 
-**Javascipt**
+## Javascipt
 
 * [Javascript](https://www.javascript.com/)
 
@@ -100,14 +136,14 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Threejs](http://threejs.org/)
 
-*  [Meteor](https://www.meteor.com/) - is an open source platform for web, 
+*  [Meteor](https://www.meteor.com/) - is an open source platform for web,
 mobile, and desktop.
 
 *  [Discover Meteor](https://www.discovermeteor.com/) - Learn Meteor and build faster & simpler web apps, as we teach you how to build a real-time Meteor app from scratch.
 
 * [Angular Meteor](http://www.angular-meteor.com/) - Build Realtime Web and Mobile Apps With Angular and Meteor
 
-*Mean Stack*
+**Mean Stack**
 
 * [Mean Stack Tutorial by Brandon](http://www.bradoncode.com/tutorials/learn-mean-stack-tutorial/)
 
@@ -117,20 +153,20 @@ mobile, and desktop.
 
 * [MEAN js](http://meanjs.org/) - Open-Source Full-Stack Solution For MEAN Applications
 
-* [MEAN.io](http://mean.io/#!/) - MEAN fullstack javascript framework - 
+* [MEAN.io](http://mean.io/#!/) - MEAN fullstack javascript framework -
 which simplifies and accelerates web application development. -MEAN.io
 
-**Web Frameworks**
-       
- *Java*
+## Web Frameworks
+
+ **Java**
 
  * [Spring](http://spring.io/) is a web framework specifically for Java
- 
-*C++*
+
+**C++**
 
  * [Silicon framework](http://siliconframework.org/) is a C++ Web Framework for Writting Fast and Robust Web APIs with C++
 
-*Ruby on Rails*
+**Ruby on Rails**
 
  * [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book) the official tutorial for all Ruby on Rails beginners
 
@@ -163,38 +199,38 @@ which simplifies and accelerates web application development. -MEAN.io
     * [Gmail like chat application in Ruby on Rails](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
 
 
-*Golang*
+**Golang**
 
 * [Revel web framework for Golang](https://revel.github.io/index.html)
 
-*Swift*
+**Swift**
 
 * [Vapor web Framework](https://vapor.codes/)
 
 
-*Python with Django*
+**Python with Django**
 
- * [Django Project](https://www.djangoproject.com/) is the official site for Django 
+ * [Django Project](https://www.djangoproject.com/) is the official site for Django
 
  * [Tango with Django](http://www.tangowithdjango.com/) is a tutorial for learning Django
 
  * [Getting Started with Django](http://gettingstartedwithdjango.com/) is another tutorial for learning Django
 
  * [Full Stack Python](http://www.fullstackpython.com/) is a comprehensive list of topics for Python and web Development using Python related frameworks
- 
+
  * [Ultimate Django](https://ultimatedjango.com/) - Learn everything you need to build awesome web apps with Django
-    
+
 *  [Django Rest Framework](http://www.django-rest-framework.org/) a Rest framework built on Django's framework
 
-*Node.js*
+**Node.js**
 
 * [Sails js](http://sailsjs.org/) a web framework for Node.js
 
-*Crossplatfrom web framework*
+**Crossplatfrom web framework**
 
 * [Electron](http://electron.atom.io/) is used for building cross platfrom desktop apps with JavaScript, HTML, and CSS. It is  compatible with Mac, Windows, and Linux, Electron apps build and run on three platforms
 
-**API Development**
+## API Development
 
 * [Rest API Tutorail](http://www.restapitutorial.com/) a introduction to Rest API
 
@@ -213,7 +249,7 @@ which simplifies and accelerates web application development. -MEAN.io
 * [Programmable Web](http://www.programmableweb.com/) - As the world's leading source of news and information about Internet-based application programming interfaces (APIs), also known as the Web's defacto journal of the API economy.
 
 
-**SQL**
+## SQL
 
 * [SQL Teaching](https://www.sqlteaching.com/) is an interactive course on learning SQL
 
@@ -229,7 +265,7 @@ which simplifies and accelerates web application development. -MEAN.io
 
 * [Connection Strings](https://www.connectionstrings.com/) - helps developers connect software to data. It's a straight to the point reference about connection strings, a knowledge base of articles and database connectivity content and a host of Q & A forums where developers help each other in finding solutions.  - Connection Strings
 
-**Version Control**
+## Version Control
 
 * [Git](https://git-scm.com/book/en/v2) is the official site for Git version control
 
@@ -237,11 +273,11 @@ which simplifies and accelerates web application development. -MEAN.io
 
 * [Git Tutorial - Atlassian](https://www.atlassian.com/git/tutorials)
 
-* [Git Reference](http://gitref.org/creating/#clone) 
+* [Git Reference](http://gitref.org/creating/#clone)
 
 * [Github tricks to Uploading Imgs and Live Demos](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
 
-**Developer Tools**
+## Developer Tools
 
    * [Atom](https://atom.io/) is GitHub's official open source text editor
 
@@ -253,18 +289,18 @@ which simplifies and accelerates web application development. -MEAN.io
 
    * [repl.it](https://repl.it/languages) is an interactive programming environment
 
-   * [Net Beans IDE](https://netbeans.org/) 
+   * [Net Beans IDE](https://netbeans.org/)
 
-   * [Eclipse Luna](https://eclipse.org/luna/) 
+   * [Eclipse Luna](https://eclipse.org/luna/)
 
    * [Jet Brains](https://www.jetbrains.com/) powerful IDEs for various platforms
 
    * [Python Dev](http://www.pydev.org/index.html) open source IDE for Python
 
-   * [Visual Studio](https://www.visualstudio.com/products/vs-2015-product-editions) IDE for building various application using C Sharp 
+   * [Visual Studio](https://www.visualstudio.com/products/vs-2015-product-editions) IDE for building various application using C Sharp
 
    * [Vagrant](https://www.vagrantup.com/)
-   
+
    * [Otto](https://www.ottoproject.io/) - knows how to develop and deploy any application on any cloud platform, all controlled with a single consistent workflow to maximize the productivity of you and your team. - Otto
 
    * [Codebrag](http://codebrag.com/)
@@ -272,15 +308,15 @@ which simplifies and accelerates web application development. -MEAN.io
    * [Docker](https://www.docker.com/what-docker)
 
    * [Remote Storage](https://remotestorage.io/)
-   
+
    * [(GitHub-Flavored) Markdown Editor](https://jbt.github.io/markdown-editor/#bVNBbtswELzzFVs4gO3GltpremqTpgkQA0WTnoICoUVSpC1yBXJlJyn69y4pw84hgAnJ5HBmd2Y1gdkPRzfDenndyR1GreawknGrcB/gu3KEUYhvMrkGhqTN0IHRkoaooXOJLoSAj3BJsTu/hxouveInISS500BWg3GdPkGsM3QCHv4xvLGISR8vynQqASPcPKzuMsdVlC3IoEBF7EEWbnCBb1kdy+0OpQJHGXydDxsMpAMlkHyeqfk0lLp+/7qDhPCCAzQyQLIZkQmTEOJ26iEgtIgKJME+OnKhZQLfM2mdcZ2OQPqZFpmlxYJhCfSabMYycUy6M5UQd4jbBZeb/fpQ/DKI+bGWcXy8CvGV28pdTFMh4cqV/gAX55/Z4aenp43cydRE15M4m5khNOQwzOZ/BcDZbKrcbjqvLPluNr0F6VmMt6rp/Iv4x4vvC/FgXQL+PWKAMfA/M0vUp4u6bh3ZYV016OvNmmp/8H6pS/zz3GKnCbisbcA9OAO3U45p/Slus6NUSt7n8rld8ZPTSTmNVazgCnFdMsvyj7krGFlHdRb3UTGmiPcRN7qhVGfcQb2eL8BE9LC3rrEiZ+dC6l2U2YIsw4anRdEozll+ewGXo/Kc/QjjTIhBjfS5xMlkAvc0GJNHWmUOL7e6EI0D/Xi0wNG7Nr05f/s+52jjaXZ7GRMPQ2G85JZWLsY3necufdmqgqZ6vJwblHtdWkkvXP/z0rrWdryIax1NKYzH7WqTjpwJDe15lr0MTjapwtiWvfqIrnU4SI30cDzJc8ufBw7UD1QmENYdNttU5DZpqbTpJOl3HVEybLGVrj7hRpX21fV9pkYDSpI82s1zY3ixIn+MSfwH)
 
    * [Markdown live Preview](http://markdownlivepreview.com/) is a free markdown live preview editor for editing your markdown files
-   
+
    * [jsonformatter](https://jsonformatter.curiousconcept.com/) - This little tool hoped to solve the problem by formatting the JSON data so that it is easy to read and debug by human beings.
 
 
-**Linux** 
+## Linux
 
 * [Linux Developer Setup](http://code.tutsplus.com/tutorials/a-linux-developers-setup--cms-22138)
 
@@ -291,22 +327,22 @@ which simplifies and accelerates web application development. -MEAN.io
 * [Linux Academy](https://linuxacademy.com/join/pricing)
 
    *Bash Shell Scripting*
-       
+
      * [Jonn's blog](http://johnstowers.co.nz/pages/bash-cheat-sheet.html) - Bash Shell Cheat sheet
 
      * [Bash Shell Cheat Sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
      * [devhints](https://devhints.io/bash) - Bash Shell Scripting
 
-**Apache**
+## Apache
 
 [XAMPP](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
 
 [WAMPSERVER](http://www.wampserver.com/en/) - WampServer is a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database. Alongside, PhpMyAdmin allows you to manage easily your databases.
 
 
-**Websites for learning to Code (MOOCS)**
-     
+## Websites for learning to Code (MOOCS)
+
 *   [The Odin Project](http://www.theodinproject.com/home) is a course for learning Ruby on Rails web development
 
 *   [Free Code Camp](https://www.freecodecamp.com/) is a course for learning Full Stack Javascript web development
@@ -339,9 +375,9 @@ which simplifies and accelerates web application development. -MEAN.io
 
 * [GeekforGeeks](http://www.geeksforgeeks.org/) - Welcome to the world of Geeks!!
   How many times were you frustrated while looking out for a good collection of programming/algorithm/interview questions? What did you expect and what did you get? This portal has been created to provide well written, well thought and well explained solutions for selected questions.
-  
+
 * [Study Tonight](http://www.studytonight.com/) - is a vision to provide free and easy education to everyone on the Internet. We are working towards bringing the entire study routine of students on the Internet.
-      
+
 * [Stack Overflow](http://stackoverflow.com/)
 
 * [Oauth](http://oauth.net/)
@@ -397,7 +433,7 @@ CSS  SQL](http://devcheats.com/)
 * [IT Ebooks](http://it-ebooks.info/)  
 
 *Coding Help/Mentorship*
-    
+
   * [Code Mentor](https://www.codementor.io/) provides assistance in all of your programming needs
 
   * [Hack Hands](https://hackhands.com/) provides assistance in all of your programming needs
@@ -405,7 +441,7 @@ CSS  SQL](http://devcheats.com/)
   * [Clarity](https://clarity.fm/) get advice from professionals and experts alike
 
 
-**Internet of Things**
+## Internet of Things
 
 * [Raspberry Pi](https://www.raspberrypi.org/)
 
@@ -432,19 +468,19 @@ CSS  SQL](http://devcheats.com/)
    * [How to turn your Raspberry Pi int a retro game console - Lifehacker](http://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192?utm_campaign=socialflow_lifehacker_facebook&utm_source=lifehacker_facebook&utm_medium=socialflow)
 
 
-### Investing 
+## Investing
 
-* [Wall Street Survivor](http://www.wallstreetsurvivor.com/) an online interactive course on investing 
+* [Wall Street Survivor](http://www.wallstreetsurvivor.com/) an online interactive course on investing
 
 * [Openfolio](https://openfolio.com/) Social media platform for investor to view other investors portfolio of investments
 
-* [Robin Hood](https://www.robinhood.com/) a mobile application for investing with zero cost per trade 
+* [Robin Hood](https://www.robinhood.com/) a mobile application for investing with zero cost per trade
 
 * [Acorns](https://www.acorns.com/) is for investing your spare change automatically from everyday purchases into a diversified portfolio
 
 * [Digit](https://digit.co/) is automatic savings done right
 
-### Start-Ups/Entrepreneurship
+## Start-Ups/Entrepreneurship
 
 * [Start Up Playbook - YC](http://playbook.samaltman.com/) is an interactive site illustrating how to build a startup
 
@@ -464,9 +500,9 @@ CSS  SQL](http://devcheats.com/)
 
 * [Bright Journey](http://www.brightjourney.com/)
 
-* [Mailchimp](http://mailchimp.com/) is a tool for email marketing 
+* [Mailchimp](http://mailchimp.com/) is a tool for email marketing
 
-* [Send Grid](https://sendgrid.com/) is for transactional email 
+* [Send Grid](https://sendgrid.com/) is for transactional email
 
 * [Startitup](http://startitup.co/) The Ultimate Startup Guide
 
@@ -500,7 +536,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Startup Hire](http://www.startuphire.com/) is a website dedicated to finding jobs for people that want to work in the startup community
 
-* [Start Up Genome](https://startupgenome.co/) is a comprehensive list of startups 
+* [Start Up Genome](https://startupgenome.co/) is a comprehensive list of startups
 
 * [Under 30 CEO](http://under30ceo.com/)
 
@@ -518,7 +554,7 @@ CSS  SQL](http://devcheats.com/)
 
 * [Slidebean](https://slidebean.com/)- Pitch deck templates for startups
 
-* [Pitchdeck.improvepresentation](https://pitchdeck.improvepresentation.com/)- A Pitch Deck Template Made by Professionals 
+* [Pitchdeck.improvepresentation](https://pitchdeck.improvepresentation.com/)- A Pitch Deck Template Made by Professionals
 Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with their presentation design. Now it's your turn. Start with this easy to edit presentation template for PowerPoint and Keynote.
 
 *Accelerators/Incubators*
@@ -532,7 +568,7 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 * [Tech Wildcatters](http://techwildcatters.com/)
 
 
-### Creating Your own Portfolio Site
+## Creating Your own Portfolio Site
 
 * [RE.VU](http://re.vu/)
 
@@ -540,7 +576,7 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Branded Me](https://branded.me/#)
 
-### Game Development
+## Game Development
 
 * [Games from Scratch](http://www.gamefromscratch.com/) is a website for people interested in learning to build games
 
@@ -554,7 +590,7 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Kilo Bolt](http://www.kilobolt.com/) a website dedicated to Android game development
 
-### Android Development
+## Android Development
 
 * [Android Developers ](https://developer.android.com/training/index.html) is the Official Site for Android Development
 
@@ -573,9 +609,9 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Android Begin](http://www.androidbegin.com/category/tutorial/) is a comprehensive blog with tutorials for Android
 
-* [Android Hive](http://www.androidhive.info/) is another blog with tutorials for Android 
+* [Android Hive](http://www.androidhive.info/) is another blog with tutorials for Android
 
-* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) 
+* [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)
 
 * [Android Cheatsheet for Graphic Designers](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
 
@@ -596,9 +632,9 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 
 
-### IOS
+## IOS
 
-* [Learn IOS - Code School](https://www.codeschool.com/learn/ios) 
+* [Learn IOS - Code School](https://www.codeschool.com/learn/ios)
 
 * [CodePath iOS Guides](https://guides.codepath.com/ios)
 
@@ -614,16 +650,16 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
   * [Heroku](https://www.heroku.com/)
 
   * [Stamplay](https://stamplay.com/)
-  
+
   * [Cloudboost.io](https://www.cloudboost.io/)
-  
+
   * [Bassbox](http://www.baasbox.com/#home)
- 
+
  *Publishing Applications*
 
  *  [App Screenshot Generator](http://www.appscreenshot.me/) is used to Create your iOS & Android application screenshots
 
-### Building Mobile Cross Platform Application
+## Building Mobile Cross Platform Application
 
 * [React Native](https://facebook.github.io/react-native/)
 
@@ -632,7 +668,7 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
     * [Decoide](https://www.decoide.org/) - The best IDE for building React Native apps is now free and open source.
 
   * [Hackernoon](https://hackernoon.com/learning-react-native-where-to-start-49df64cf14a2) - Learning React Native
-  
+
   * [10 Resources to Learn React and Redux](https://medium.com/@lockpaddy/10-resources-to-learn-react-and-redux-25d3c35cb2bd)
 
 
@@ -652,15 +688,15 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Ruboto](http://ruboto.org/) - Build Android Applications using Ruby
 
-### Content Management Systems (CMS)
+## Content Management Systems (CMS)
 
 *WordPress*
 
 * [WordPress](https://wordpress.org/) - is open source software you can use to create a beautiful website, blog, or app.
 
-     * [WP Beginner](http://www.wpbeginner.com/) - is a free WordPress resource site for Beginners. 
+     * [WP Beginner](http://www.wpbeginner.com/) - is a free WordPress resource site for Beginners.
 
-### Web Design
+## Web Design
 
 * [40 Must Have Cheat Sheets For Graphic Designers And Developers](http://www.smashingapps.com/2013/02/28/40-must-have-cheat-sheets-for-graphic-designers-and-developers.html)
 
@@ -670,9 +706,9 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 
 * [Ui Faces](http://uifaces.com/) is a open source project for using peoples face icons on projects
 
-* [Face Pixelizer](http://www.facepixelizer.com/) is a pixelizer 
+* [Face Pixelizer](http://www.facepixelizer.com/) is a pixelizer
 
-* [Flat Icon](http://www.flaticon.com/) is a website for using icons 
+* [Flat Icon](http://www.flaticon.com/) is a website for using icons
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/) is an open source project that gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS -Font Awesome
 
@@ -743,23 +779,23 @@ Over 100 TED speakers, IBM, NASA, Unilever, and many more, have trusted us with 
 * [Just In Mind](https://www.justinmind.com/) - All-in-one Prototyping Tool for web and mobile apps
 Define awesome experiences through wireframes & prototypes
 
-### Mathematics
+## Mathematics
 
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 
 * [Patrick's Just Math Tutorials](http://patrickjmt.com/)
 
-* [Khan Academy](https://www.khanacademy.org/) 
+* [Khan Academy](https://www.khanacademy.org/)
 
 * [Calculus Help](http://www.calculus-help.com/problems-of-the-week/)
 
 * [ArsDigita University Curriculum](http://www.aduni.org/courses/)
 
    *Article on Calculus Professor*
-   
+
    * [This Professor Can Teach Anyone Calculus Using These Simple, Beautiful Animations - Gizmodo](http://gizmodo.com/this-professor-can-teach-anyone-calculus-using-these-si-1726762097?utm_campaign=socialflow_gizmodo_facebook&utm_source=gizmodo_facebook&utm_medium=socialflow)
-  
-### MISC Websites
+
+## MISC Websites
 
 *  [Stack Share](http://stackshare.io/stacks) is a site where companies and developers alike share the stacks they use for their projects and or company
 
@@ -821,14 +857,14 @@ Define awesome experiences through wireframes & prototypes
 
 *  [Change.org](https://www.change.org/) is the world's platform for change
 
-*  [Fearless Motivation](http://www.fearlessmotivation.com/) 
+*  [Fearless Motivation](http://www.fearlessmotivation.com/)
 
 * [IFTT](https://ifttt.com/) empowers you to do more with the services you love. Learn how Applets make it possible
 
-### Movies & TV
+## Movies & TV
 
 * [Saiyan Watch](http://saiyanwatch.com/) - Watch Dragon Ball Super English Subbed And Dubbed Episodes Free Online Also Download Dragon Ball Super, Dragon Ball Z, GT, DBZ Kai, Movies,Specials ...
 
-### Music
+## Music
 
 * [Sound Trap](https://www.soundtrap.com/) - We are an eclectic team of engineers, designers and music producers passionate about music & technology. United by the belief that there’s a better way to create music together, we’re building Soundtrap — the best collaboration platform for making music online.
