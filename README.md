@@ -9,7 +9,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 
 * [Java](#java)
-* [C ++](#c-+-+)
+* [C++](#c-+-+)
 * [C Sharp](#c-sharp)
 * [C](#c)
 * [Python](#python)
