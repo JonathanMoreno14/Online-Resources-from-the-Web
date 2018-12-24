@@ -24,7 +24,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Developer Tools](#developer-tools)
 * [Linux](#linux)
 * [Apache](#apache)
-* [Websites for learning to Code](#websites-for-learning-to-code)
+* [Learning to Code](#learning-to-Code)
 * [Internet of Things](#internet-of-things)
 * [Investing](#investing)
 * [Start-Ups/Entrepreneurship](#start-Ups/entrepreneurship)
@@ -342,7 +342,7 @@ which simplifies and accelerates web application development. -MEAN.io
 [WAMPSERVER](http://www.wampserver.com/en/) - WampServer is a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database. Alongside, PhpMyAdmin allows you to manage easily your databases.
 
 
-## Websites for learning to Code (MOOCS)
+## Learning to Code 
 
 *   [The Odin Project](http://www.theodinproject.com/home) is a course for learning Ruby on Rails web development
 
