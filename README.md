@@ -9,8 +9,8 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 
 * [Java](#java)
-* [C Plus Plus](#cplusplus)
-* [C Sharp](#c-sharp)
+* [CPlusPlus](#cplusplus)
+* [C Sharp](#csharp)
 * [C](#c)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -64,7 +64,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 
 
-## C Plus Plus
+## CPlusPlus
 
 * [Learn C++](http://www.learncpp.com/)
 
@@ -73,7 +73,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Beginner C++](http://beginnerscpp.com/)
 
 
-## C Scharp
+## CScharp
 
 * [C Sharp - Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)
 
