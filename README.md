@@ -1,8 +1,6 @@
-# Online Resources from the Web
+# Online Resources 
 
-## Resources
-
-These are resources from the vast internet. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
+A collective list of online resources. If you ever wanted to learn to code, learn about finance or anything else in general, you can find these resources useful. Feel free to update the list
 
 
 ## Table of Contents
