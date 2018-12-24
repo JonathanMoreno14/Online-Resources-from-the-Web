@@ -10,7 +10,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 
 * [Java](#java)
 * [CPlusPlus](#cplusplus)
-* [C Sharp](#csharp)
+* [CSharp](#csharp)
 * [C](#c)
 * [Python](#python)
 * [Ruby](#ruby)
