@@ -37,7 +37,7 @@ These are resources from the vast internet. If you ever wanted to learn to code,
 * [Web Design](#web-design)
 * [Mathematics](#mathematics)
 * [MISC Websites](#misc-websites)
-* [Movies & TV](#movies-&-tv)
+* [Movies and TV](#movies-and-tv)
 * [Music](#music)
 
 
@@ -858,7 +858,7 @@ Define awesome experiences through wireframes & prototypes
 
 * [IFTT](https://ifttt.com/) empowers you to do more with the services you love. Learn how Applets make it possible
 
-## Movies & TV
+## Movies and TV
 
 * [Saiyan Watch](http://saiyanwatch.com/) - Watch Dragon Ball Super English Subbed And Dubbed Episodes Free Online Also Download Dragon Ball Super, Dragon Ball Z, GT, DBZ Kai, Movies,Specials ...
 
